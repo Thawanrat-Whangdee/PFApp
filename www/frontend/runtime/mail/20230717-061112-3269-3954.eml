@@ -1,0 +1,49 @@
+Message-ID: <1291d5cc3bf9822a147cedebe822e1fd@localhost>
+Date: Mon, 17 Jul 2023 06:11:12 +0200
+Subject: Account registration at PFMS
+From: PFMS robot <support@example.com>
+To: you@mail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1689567072_345c1b2b8f00efaca1983df7d07c0752_=_"
+
+
+--_=_swift_1689567072_345c1b2b8f00efaca1983df7d07c0752_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello you,
+
+Follow the link below to verify your email:
+
+http://localhost/yii2webApp/frontend/web/index.php?r=3Dsite%2Fverify-email&=
+token=3DW_80T82CF7fmTApSnB0PRmqd5AjKuQLz_1689567072
+
+--_=_swift_1689567072_345c1b2b8f00efaca1983df7d07c0752_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+" />
+    <title></title>
+    </head>
+<body>
+        <div class=3D"verify-email">
+    <p>Hello you,</p>
+
+    <p>Follow the link below to verify your email:</p>
+
+    <p><a href=3D"http://localhost/yii2webApp/frontend/web/index.php?r=3Dsi=
+te%2Fverify-email&amp;token=3DW_80T82CF7fmTApSnB0PRmqd5AjKuQLz_1689567072">=
+http://localhost/yii2webApp/frontend/web/index.php?r=3Dsite%2Fverify-email&=
+amp;token=3DW_80T82CF7fmTApSnB0PRmqd5AjKuQLz_1689567072</a></p>
+</div>
+    </body>
+</html>
+
+
+--_=_swift_1689567072_345c1b2b8f00efaca1983df7d07c0752_=_--
